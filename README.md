@@ -29,5 +29,9 @@ This sample demonstrates how to design a modern **Temperature Monitor** using th
 - Arranges gauge elements using custom positioning.
 - Maintains a consistent appearance across different window sizes.
 
+## Output
+
+![Temperature Monitor Using WPF Radial Gauge](https://www.syncfusion.com/blogs/wp-content/uploads/2020/05/Single-Temperature-Indicator-for-InsideOutside-1024x483.png)
+
 ## Blog reference
 [Simple Steps to Design a Temperature Monitor Using WPF Radial Gauge](https://www.syncfusion.com/blogs/post/design-a-temperature-monitor-using-wpf-radial-gauge)
